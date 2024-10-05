@@ -8,8 +8,14 @@
 ```
 [Watch the video](D:\GitHub\cs283-f24-assignments\HelloUnity\Assets\Scenes\TourVideo.mp4)
 
+```
+10/4 Assignment 5 
 
 ```
+[Watch the video](D:\GitHub\cs283-f24-assignments\HelloUnity\Assets\Scenes\SpringFollowCamera.mp4)
+[Watch the video](D:\GitHub\cs283-f24-assignments\HelloUnity\Assets\Scenes\RigidFollowCamara.mp4)
+
+
 References:
 
 43823 Publisher. (n.d.). Unity Asset Store. https://assetstore.unity.com/publishers/43823
