@@ -1,4 +1,9 @@
 ```
+NPC Wander
+```
+![NPC Wander](https://github.com/user-attachments/assets/7e4d4619-0b21-45da-a35d-d570876f7ccc)
+
+```
 Collection Game
 ```
 ![Collection Game](https://github.com/user-attachments/assets/697fcbd4-fe8d-4462-bae3-a3dff54c7b41)
