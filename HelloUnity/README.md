@@ -1,4 +1,16 @@
 ```
+NPC Follow and attack
+```
+![屏幕录制 2024-11-16 002945](https://github.com/user-attachments/assets/e118eafe-1f2b-4b74-bd5a-264fc253332e)
+
+
+```
+Laser Gun Shooting
+```
+![屏幕录制 2024-11-16 041208](https://github.com/user-attachments/assets/7418b881-3f12-458d-9c2c-77807976c4f9)
+
+
+```
 NPC Wander
 ```
 ![NPC Wander](https://github.com/user-attachments/assets/7e4d4619-0b21-45da-a35d-d570876f7ccc)
@@ -62,6 +74,10 @@ Level 3 Screenshot
 
 References:
 ```
+RayTrace Interactive. (n.d.). Low poly sci-fi weapons pack (free sample) [Unity Asset]. Unity Asset Store. https://assetstore.unity.com/packages/3d/props/guns/low-poly-sci-fi-weapons-pack-free-sample-285646
+
+Tech Salad. (n.d.). Volumetric lines [Unity Asset]. Unity Asset Store. https://assetstore.unity.com/packages/tools/particles-effects/volumetric-lines-29160
+
 43823 Publisher. (n.d.). Stones and buried treasure [Unity Asset]. Unity Asset Store. https://assetstore.unity.com/packages/3d/environments/fantasy/stones-and-buried-treasure-95557
 
 43823 Publisher. (n.d.). Unity Asset Store. https://assetstore.unity.com/publishers/43823
