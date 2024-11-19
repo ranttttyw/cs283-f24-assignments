@@ -4,15 +4,10 @@ using System.Collections; // Add this line
 
 public class CollectionGame : MonoBehaviour
 {
-    public TextMeshProUGUI collectionCounterText;
-    private int collectionCount = 0;
-
     private void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("Collectable"))
         {
-            collectionCount++;
-            UpdateCounterText();
 
             // Trigger the rise-up effect
             var effect = other.GetComponent<CollectionEffect>();
@@ -30,10 +25,6 @@ public class CollectionGame : MonoBehaviour
         }
     }
 
-    private void UpdateCounterText()
-    {
-        collectionCounterText.text = "Count: " + collectionCount;
-    }
 
     private IEnumerator HideObjectAfterDelay(GameObject obj, float delay)
     {
